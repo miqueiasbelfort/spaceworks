@@ -1,0 +1,228 @@
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\appsettings.json
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\SpaceWorks.exe
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\SpaceWorks.deps.json
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\SpaceWorks.runtimeconfig.json
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\SpaceWorks.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\SpaceWorks.pdb
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\Humanizer.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\obj\Debug\net7.0\SpaceWorks.csproj.AssemblyReference.cache
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\obj\Debug\net7.0\SpaceWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\obj\Debug\net7.0\SpaceWorks.AssemblyInfoInputs.cache
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\obj\Debug\net7.0\SpaceWorks.AssemblyInfo.cs
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\obj\Debug\net7.0\SpaceWorks.csproj.CoreCompileInputs.cache
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\obj\Debug\net7.0\SpaceWorks.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\obj\Debug\net7.0\SpaceWorks.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\obj\Debug\net7.0\staticwebassets\msbuild.SpaceWorks.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\obj\Debug\net7.0\staticwebassets\msbuild.build.SpaceWorks.props
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SpaceWorks.props
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SpaceWorks.props
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\obj\Debug\net7.0\scopedcss\bundle\SpaceWorks.styles.css
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\obj\Debug\net7.0\SpaceWorks.csproj.CopyComplete
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\obj\Debug\net7.0\SpaceWorks.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\obj\Debug\net7.0\refint\SpaceWorks.dll
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\obj\Debug\net7.0\SpaceWorks.pdb
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\obj\Debug\net7.0\SpaceWorks.genruntimeconfig.cache
+C:\Users\miqueias.belfort\Desktop\code\SpaceWorks\obj\Debug\net7.0\ref\SpaceWorks.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\appsettings.Development.json
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\appsettings.json
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\SpaceWorks.exe
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\SpaceWorks.deps.json
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\SpaceWorks.runtimeconfig.json
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\SpaceWorks.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\SpaceWorks.pdb
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\Humanizer.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\System.CodeDom.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\CSharp\SpaceWorks\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\CSharp\SpaceWorks\obj\Debug\net7.0\SpaceWorks.csproj.AssemblyReference.cache
+D:\CSharp\SpaceWorks\obj\Debug\net7.0\SpaceWorks.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\SpaceWorks\obj\Debug\net7.0\SpaceWorks.AssemblyInfoInputs.cache
+D:\CSharp\SpaceWorks\obj\Debug\net7.0\SpaceWorks.AssemblyInfo.cs
+D:\CSharp\SpaceWorks\obj\Debug\net7.0\SpaceWorks.csproj.CoreCompileInputs.cache
+D:\CSharp\SpaceWorks\obj\Debug\net7.0\SpaceWorks.MvcApplicationPartsAssemblyInfo.cs
+D:\CSharp\SpaceWorks\obj\Debug\net7.0\SpaceWorks.MvcApplicationPartsAssemblyInfo.cache
+D:\CSharp\SpaceWorks\obj\Debug\net7.0\staticwebassets\msbuild.SpaceWorks.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CSharp\SpaceWorks\obj\Debug\net7.0\staticwebassets\msbuild.build.SpaceWorks.props
+D:\CSharp\SpaceWorks\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SpaceWorks.props
+D:\CSharp\SpaceWorks\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SpaceWorks.props
+D:\CSharp\SpaceWorks\obj\Debug\net7.0\staticwebassets.pack.json
+D:\CSharp\SpaceWorks\obj\Debug\net7.0\staticwebassets.build.json
+D:\CSharp\SpaceWorks\obj\Debug\net7.0\staticwebassets.development.json
+D:\CSharp\SpaceWorks\obj\Debug\net7.0\scopedcss\bundle\SpaceWorks.styles.css
+D:\CSharp\SpaceWorks\obj\Debug\net7.0\SpaceWorks.csproj.CopyComplete
+D:\CSharp\SpaceWorks\obj\Debug\net7.0\SpaceWorks.dll
+D:\CSharp\SpaceWorks\obj\Debug\net7.0\refint\SpaceWorks.dll
+D:\CSharp\SpaceWorks\obj\Debug\net7.0\SpaceWorks.pdb
+D:\CSharp\SpaceWorks\obj\Debug\net7.0\SpaceWorks.genruntimeconfig.cache
+D:\CSharp\SpaceWorks\obj\Debug\net7.0\ref\SpaceWorks.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\appsettings.Development.json
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\appsettings.json
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\SpaceWorks.exe
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\SpaceWorks.deps.json
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\SpaceWorks.runtimeconfig.json
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\SpaceWorks.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\SpaceWorks.pdb
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\Humanizer.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\System.CodeDom.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\obj\Debug\net7.0\SpaceWorks.csproj.AssemblyReference.cache
+D:\Dev Projects\SpaceWorks\spaceworks-server\obj\Debug\net7.0\SpaceWorks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev Projects\SpaceWorks\spaceworks-server\obj\Debug\net7.0\SpaceWorks.AssemblyInfoInputs.cache
+D:\Dev Projects\SpaceWorks\spaceworks-server\obj\Debug\net7.0\SpaceWorks.AssemblyInfo.cs
+D:\Dev Projects\SpaceWorks\spaceworks-server\obj\Debug\net7.0\SpaceWorks.csproj.CoreCompileInputs.cache
+D:\Dev Projects\SpaceWorks\spaceworks-server\obj\Debug\net7.0\SpaceWorks.MvcApplicationPartsAssemblyInfo.cs
+D:\Dev Projects\SpaceWorks\spaceworks-server\obj\Debug\net7.0\SpaceWorks.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev Projects\SpaceWorks\spaceworks-server\obj\Debug\net7.0\staticwebassets\msbuild.SpaceWorks.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dev Projects\SpaceWorks\spaceworks-server\obj\Debug\net7.0\staticwebassets\msbuild.build.SpaceWorks.props
+D:\Dev Projects\SpaceWorks\spaceworks-server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SpaceWorks.props
+D:\Dev Projects\SpaceWorks\spaceworks-server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SpaceWorks.props
+D:\Dev Projects\SpaceWorks\spaceworks-server\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Dev Projects\SpaceWorks\spaceworks-server\obj\Debug\net7.0\staticwebassets.build.json
+D:\Dev Projects\SpaceWorks\spaceworks-server\obj\Debug\net7.0\staticwebassets.development.json
+D:\Dev Projects\SpaceWorks\spaceworks-server\obj\Debug\net7.0\scopedcss\bundle\SpaceWorks.styles.css
+D:\Dev Projects\SpaceWorks\spaceworks-server\obj\Debug\net7.0\SpaceWorks.csproj.CopyComplete
+D:\Dev Projects\SpaceWorks\spaceworks-server\obj\Debug\net7.0\SpaceWorks.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\obj\Debug\net7.0\refint\SpaceWorks.dll
+D:\Dev Projects\SpaceWorks\spaceworks-server\obj\Debug\net7.0\SpaceWorks.pdb
+D:\Dev Projects\SpaceWorks\spaceworks-server\obj\Debug\net7.0\SpaceWorks.genruntimeconfig.cache
+D:\Dev Projects\SpaceWorks\spaceworks-server\obj\Debug\net7.0\ref\SpaceWorks.dll
